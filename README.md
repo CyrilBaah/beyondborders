@@ -56,4 +56,4 @@ curl -X POST -H "Content-Type: application/json" -d '{"title": "Task 1"}' http:/
 ```
 
 ## Using Docker
-Refer to the Makefile to already prepare commands | [Makefile](https://github.com/CyrilBaah/task-tracker/blob/dev/Makefile)
+Refer to the Makefile to already prepare commands | [Makefile](https://github.com/CyrilBaah/beyondborders.git)
